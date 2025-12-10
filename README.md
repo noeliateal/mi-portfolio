@@ -1,6 +1,7 @@
 # Portfolio Personal — Noelia Terrón
 
 Portfolio desarrollado con **React**, **Next.js** y **Tailwind CSS**, creado para presentar mis proyectos, formación y avance en el desarrollo web.  
+
 Este sitio está diseñado con un enfoque minimalista, limpio y centrado en la experiencia del usuario.
 
 ---
