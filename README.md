@@ -30,12 +30,9 @@ El objetivo es mostrar mis capacidades en diseño, desarrollo web y organizació
 
 ---
 
-## ¿Cómo ejecutar el proyecto?
+## Link directo a mi portfolio
+https://mi-portfolio-two-jade.vercel.app/ 
 
-1. Clonar repositorio: git clone https://github.com/noeliateal/mi-portfolio
-2. Instalar dependencias: npm install
-3. Iniciar el servidor de desarrollo: npm run dev
-4. Abrir el navegador y poner: http://localhost:3000
 
 
 
