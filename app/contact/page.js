@@ -19,7 +19,7 @@ export default function Contact() {
             📧 Email:
           </p>
           <a href="mailto:noeliateal@gmail.com" className="text-blue-400 hover:underline mb-6 block">
-            noeliateal@gmail.com
+            noeliaterronalamo@gmail.com
           </a>
 
 
